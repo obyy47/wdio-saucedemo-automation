@@ -1,6 +1,6 @@
 # WebdriverIO Test Automation: SauceDemo
 
-UI test automation for [SauceDemo](https://www.saucedemo.com) using WebdriverIO and the Page Object pattern. The scenarios are taken from my manual test cases (see [manual-testing-portfolio](https://github.com/obyy47/manual-testing-portfolio)), and each test name includes the ID of its Qase test case.
+UI test automation for [SauceDemo](https://www.saucedemo.com) using WebdriverIO and the Page Object pattern. The scenarios are taken from my manual test cases (see [manual-qa-portfolio](https://github.com/obyy47/manual-qa-portfolio)), and each test name includes the ID of its Qase test case.
 
 ## Tools
 
